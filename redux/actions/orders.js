@@ -1,0 +1,1 @@
+export const initOrdersAction = payload => ({type: 'INIT_ORDERS', payload})
